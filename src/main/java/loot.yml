@@ -1,0 +1,37 @@
+
+FishList:
+  - fish1
+  - fish2
+  - fish3
+
+fish1:
+  material: dirt
+  display-name: '&6Fish'
+  lore:
+    - '&6Качество: Обычный'
+  min-weight: 1.0
+  max-weight: 2.0
+  min-height: 1.0
+  max-height: 2.0
+  chance-to-drop: 0.5
+fish2:
+  material: grass_block
+  display-name: '&3Fish 2'
+  lore:
+    - '&3Very fish 2'
+  min-weight: 1.0
+  max-weight: 2.0
+  min-height: 1.0
+  max-height: 2.0
+  chance-to-drop: 0.5
+fish3:
+  material: cobblestone
+  display-name: '&2Fish 3'
+  lore:
+    - '&8Very fish 3'
+  min-weight: 1.0
+  max-weight: 3.0
+  min-height: 1.0
+  max-height: 3.0
+  chance-to-drop: 0.5
+

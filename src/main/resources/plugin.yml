@@ -1,0 +1,4 @@
+name: RusskayaRybalka
+version: '${version}'
+main: su.pmchahawoman.russkayarybalka.RusskayaRybalka
+api-version: '1.20'
